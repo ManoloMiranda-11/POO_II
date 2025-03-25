@@ -1,0 +1,14 @@
+# Archivos del IDE (Eclipse, IntelliJ, etc.)
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+
+# Archivos compilados
+*.class
+
+# Archivos temporales
+*.log
+.DS_Store
+Thumbs.db
